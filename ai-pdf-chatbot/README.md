@@ -75,5 +75,18 @@ src/
 
 4. Run the server
    node src/app.js
+## API Testing Screenshots
+
+### Upload PDF API
+
+![Upload PDF](./assets/upload-pdf.png)
+
+---
+
+### Ask Question API
+
+![Query API](./assets/query.png)
+
+
 
 ``This project is part of my learning journey in building real-world AI systems using RAG.``
